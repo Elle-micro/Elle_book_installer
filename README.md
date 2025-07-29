@@ -3,4 +3,4 @@ WIndows install binary for example experiments described in: Microdynamics Simul
    
 https://link.springer.com/book/10.1007/978-3-540-44793-1    
    
-This respository also includes a pdf of the example experiemnts from the appendix for this book as well as the legacy source code used in the book.   
+This respository also includes a pdf of the example experiments from the appendix for this book as well as the legacy source code used in the book.   
